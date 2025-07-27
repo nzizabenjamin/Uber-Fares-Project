@@ -42,6 +42,8 @@ Performed using **Python (Pandas)**:
 - 🌍 **Geographic Map**: Pickup distribution across NYC
 - 🔥 **Correlation Heatmap**: Relationships between fare, distance, time
 
+- ![Data](https://github.com/nzizabenjamin/Uber-Fares-Project/blob/0e52a62ec62a9ca8fb2e3274dba92f3006dc8882/Screenshots/Screenshot%202025-07-27%20051945.png)
+- ![Loading in PowerBi](https://github.com/nzizabenjamin/Uber-Fares-Project/blob/0e52a62ec62a9ca8fb2e3274dba92f3006dc8882/Screenshots/Screenshot%202025-07-27%20051931.png)
 - ![PowerBi Dashboard](https://github.com/nzizabenjamin/Uber-Fares-Project/blob/ee8c4f72f2697764d62283d158232deae48e4fdd/Screenshots/Screenshot%202025-07-27%20050106.png)
 
 ---
