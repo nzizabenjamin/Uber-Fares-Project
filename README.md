@@ -73,7 +73,7 @@ Performed using **Python (Pandas)**:
 | `uber_fares.ipynb` | Python script for data cleaning and feature engineering |
 | `Uber_Fare_Analysis.pptx` | Project summary PowerPoint |
 | `Uber_Fare.pbix` | Final Power BI dashboard |
-| `Screenshots/` | Step-by-step visuals of the dashboard |
+| `Screenshots/` | Step-by-step visuals |
 | `README.md` | This project documentation |
 
 ---
