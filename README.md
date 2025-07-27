@@ -68,9 +68,9 @@ Performed using **Python (Pandas)**:
 | File | Description |
 |------|-------------|
 | `uber_enhanced.csv` | Cleaned and enriched dataset |
-| `uber_analysis.py` | Python script for data cleaning and feature engineering |
-| `Uber_Fare_Analysis_Presentation.pptx` | Project summary PowerPoint |
-| `Uber_Fare_Analysis.pbix` | Final Power BI dashboard |
+| `uber_fares.ipynb` | Python script for data cleaning and feature engineering |
+| `Uber_Fare_Analysis.pptx` | Project summary PowerPoint |
+| `Uber_Fare.pbix` | Final Power BI dashboard |
 | `Screenshots/` | Step-by-step visuals of the dashboard |
 | `README.md` | This project documentation |
 
